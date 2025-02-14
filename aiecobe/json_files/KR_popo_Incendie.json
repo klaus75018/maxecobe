@@ -1,0 +1,33 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "dimensions du b\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Superficie du b\u00e2timent",
+                    "detail": "Le b\u00e2timent a une superficie de 10000 m\u00b2."
+                },
+                {
+                    "titre": "Superficie du b\u00e2timent",
+                    "detail": "Le b\u00e2timent a une superficie de 1000 m\u00b2."
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "popo"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_j51wlR1esorAfY1TrVGd4yBB"
+        }
+    ]
+}

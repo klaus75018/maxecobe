@@ -1,0 +1,43 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "batiment",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Superficie du b\u00e2timent",
+                    "detail": "Le b\u00e2timent fait 2000 m\u00b2."
+                },
+                {
+                    "titre": "Type de b\u00e2timent",
+                    "detail": "Le b\u00e2timent est un IGH (Immeuble de Grande Hauteur)."
+                }
+            ]
+        },
+        {
+            "sujet": "parking",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Superficie des parkings",
+                    "detail": "Il y a 7000 m\u00b2 de parkings."
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "test DT"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_5hWxUvn3BcAGiM4tQpGt1nbG"
+        }
+    ]
+}

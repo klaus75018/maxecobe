@@ -1,0 +1,37 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "Parking sous terrain",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Type de b\u00e2timent",
+                    "detail": "Immeuble r\u00e9sidentiel avec parking sous terrain."
+                },
+                {
+                    "titre": "Surface",
+                    "detail": "4 niveaux."
+                },
+                {
+                    "titre": "Type d'activit\u00e9",
+                    "detail": "Parking sous terrain."
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "alpha"
+        },
+        {
+            "titre": "username",
+            "detail": "Klaus0095"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_UcYF8edwe9CatkXUXvIDivPS"
+        }
+    ]
+}

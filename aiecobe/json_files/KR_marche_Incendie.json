@@ -1,0 +1,53 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "dimension du b\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Superficie",
+                    "detail": "10000 m\u00b2"
+                }
+            ]
+        },
+        {
+            "sujet": "type de b\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Type",
+                    "detail": "Immeuble de bureaux"
+                }
+            ]
+        },
+        {
+            "sujet": "infrastructure du b\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Parking",
+                    "detail": "Parking sous le b\u00e2timent"
+                },
+                {
+                    "titre": "Niveaux de Parking",
+                    "detail": "2 niveaux de sous-sol"
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "marche"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_YE4BgJmgdvnVeaISoJIDA9Rv"
+        }
+    ]
+}

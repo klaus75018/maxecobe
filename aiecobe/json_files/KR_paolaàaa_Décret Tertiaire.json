@@ -1,0 +1,33 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "b\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Type de b\u00e2timent",
+                    "detail": "Immeuble de bureaux"
+                },
+                {
+                    "titre": "Niveaux de parking",
+                    "detail": "Deux niveaux de parking sous le b\u00e2timent"
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "paola\u00e0aa"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_rqlwk8921oMC85VSI0AD1G3U"
+        }
+    ]
+}

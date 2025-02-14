@@ -1,0 +1,37 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "B\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Type de b\u00e2timent",
+                    "detail": "Habitation"
+                },
+                {
+                    "titre": "Nombre d'\u00e9tages",
+                    "detail": "5 (y compris niveaux de parking)"
+                },
+                {
+                    "titre": "Surface totale",
+                    "detail": "1000m\u00b2"
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "kopovkzvpo"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_hoepuezEpiRLqZivpPqv9UQa"
+        }
+    ]
+}

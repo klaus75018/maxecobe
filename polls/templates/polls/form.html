@@ -1,0 +1,14 @@
+{% extends 'events/navbar.html'%}
+{% block content %}
+    <h1 style="text-align: center;">Vos réponses sur la sécurité incendie</h1>
+    {% for tt in text %}
+    <h4>{{tt | linebreaks}}</h4> <!--ajout de "linebreaks" pour qu'il prenne en compte les \n-->
+    {% endfor %}
+    <form method="post">
+        {% csrf_token %}
+        {{form}}
+        <button type="submit">
+            C'est Parti !
+        </button>
+    </form>
+    {% endblock %}

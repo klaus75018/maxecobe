@@ -1,0 +1,47 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "b\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Superficie",
+                    "detail": "Le b\u00e2timent a une superficie de 2000 m\u00b2."
+                },
+                {
+                    "titre": "Type de b\u00e2timent",
+                    "detail": "Le b\u00e2timent est un b\u00e2timent de bureaux."
+                },
+                {
+                    "titre": "Type de b\u00e2timent",
+                    "detail": "Le b\u00e2timent est un IGH (Immeuble de Grande Hauteur)."
+                }
+            ]
+        },
+        {
+            "sujet": "capacit\u00e9 d'accueil",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Capacit\u00e9 d'accueil",
+                    "detail": "Le b\u00e2timent peut accueillir 170 personnes."
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "test DT"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_SHtGzrFSVX9ATtJgB4866MuZ"
+        }
+    ]
+}

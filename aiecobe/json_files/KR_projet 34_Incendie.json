@@ -1,0 +1,49 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "Logement",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Type de b\u00e2timent",
+                    "detail": "Immeuble d'habitation"
+                },
+                {
+                    "titre": "Surface totale",
+                    "detail": "1000 m\u00b2"
+                },
+                {
+                    "titre": "Nombre d'\u00e9tages",
+                    "detail": "Non pr\u00e9cis\u00e9, veuillez l'indiquer."
+                },
+                {
+                    "titre": "Nombre d'occupants",
+                    "detail": "30 personnes"
+                },
+                {
+                    "titre": "Type d'activit\u00e9",
+                    "detail": "H\u00e9bergement"
+                },
+                {
+                    "titre": "Nombre d'\u00e9tages",
+                    "detail": "5 \u00e9tages"
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "projet 34"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_BpApJmjTgjp1bCIxt6biyEKa"
+        }
+    ]
+}

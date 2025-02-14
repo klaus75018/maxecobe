@@ -1,0 +1,11 @@
+{% if latest_question_list %}
+    <ul>
+    {% for question in latest_question_list %}
+        <li><a href="{% url 'polls:detail' question.id %}">{{ question.question_text }}</a></li><!--avant j'avais href="/polls/{{ question.id }}/" mais comme ca c'est plus classe car je peux changer directement dans "url" du dossier polls de l'app polls(d'ou le polls:details > Me permet de savoir à quel application je fais reference. J'ai d'ailleur ajouté "app_name" dans le fichiers "urls.py")-->
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
+
+<h1>{{text}}</h1>

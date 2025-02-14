@@ -1,0 +1,37 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "b\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Superficie du b\u00e2timent",
+                    "detail": "10000 m\u00b2"
+                },
+                {
+                    "titre": "Type d'occupation",
+                    "detail": "Occup\u00e9 par des employ\u00e9s de bureaux"
+                },
+                {
+                    "titre": "Nombre d'\u00e9tages",
+                    "detail": "5 \u00e9tages"
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "marche"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_kymZJBiwzWykvXffWku984mB"
+        }
+    ]
+}
